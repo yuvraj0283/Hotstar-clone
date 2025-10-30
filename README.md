@@ -67,6 +67,3 @@ Open index.html in your browser — and enjoy 🎥
 Yuvraj Singh
 📧 yuvraj0283@gmail.com
 
-
-## 📂 Project Structure
-
